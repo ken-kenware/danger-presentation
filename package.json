@@ -1,0 +1,18 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck code-reviews.mdx",
+    "build": "mdx-deck build code-reviews.mdx"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.6.4"
+  },
+  "dependencies": {
+    "react-syntax-highlighter": "^8.0.1"
+  }
+}
